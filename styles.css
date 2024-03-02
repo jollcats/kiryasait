@@ -12,3 +12,11 @@
     position: relative;
     right: -582px
 }
+
+.email{
+    font-family: Arial, sans-serif;
+    font-size: 34px;
+    color: #174ea6;
+    font-style: oblique;
+    margin-left: 282px;
+}
